@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'strs.dart';
+import '../strs.dart';
+
 
 class ProfileDetails extends StatelessWidget {
   const ProfileDetails({Key? key}) : super(key: key);

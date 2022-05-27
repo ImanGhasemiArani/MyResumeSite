@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:resume_site/home_vew.dart';
 
 import 'strs.dart';
+import 'views/homeView/home_vew.dart';
 
 void main() {
   runApp(const MyApp());

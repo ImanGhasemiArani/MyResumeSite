@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-import '../strs.dart';
+import '../../strs.dart';
 import 'nav_bar_item.dart';
 
-class NavBar extends StatelessWidget {
-  const NavBar({Key? key}) : super(key: key);
+class NavBarDesktopTablet extends StatelessWidget {
+  const NavBarDesktopTablet({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
